@@ -49,7 +49,7 @@ function Navbar() {
             <DropdownMenu>
                 <DropdownMenuTrigger>
                     <Avatar>
-                        <AvatarImage src="https://github.com/shadcn.png" />
+                        <AvatarImage src="/logo.jpg" />
                         <AvatarFallback>CN</AvatarFallback>
                     </Avatar>
                 </DropdownMenuTrigger>
